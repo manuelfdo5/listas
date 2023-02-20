@@ -15,7 +15,7 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="123" tvg-name="Caracol" tvg-logo="https://lh3.googleusercontent.com/-cnEF-Jb4oZk/XzghpFYoQLI/AAAAAAAA4YE/syrJvA2xcmwQRvs5Df5FlbVl40HBIRUeQCK8BGAsYHg/s0/2020-08-15.jpg", Caracol | CO
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+https://mdstrm.com/live-stream/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 tvg-id="125" tvg-name="Cosmovisión" tvg-logo="https://lh3.googleusercontent.com/-BK2illtLNdw/Xzgh2FS7TtI/AAAAAAAA4YM/gnbmSqIJG5wCwVJ2gUG0NPQgbo1axWmcwCK8BGAsYHg/s0/2020-08-15.jpg", Cosmovisión | CO
 https://videohls2.cosmovision.tv/hls/sd.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="CTV" tvg-logo="https://lh3.googleusercontent.com/-HEzkYTo02Rk/Xzgh99tP4iI/AAAAAAAA4YQ/mTot01o9dXAeWSFyVaHucohKWQSBIcEVgCK8BGAsYHg/s0/2020-08-15.jpg", CTV | CO
