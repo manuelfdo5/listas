@@ -5,6 +5,18 @@ https://mediacp.us:8081/8002/index.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="113" tvg-name="Cali TV" tvg-logo="https://lh3.googleusercontent.com/-Qtn4FPkMhMI/XzggR9q6ebI/AAAAAAAA4XU/egrRXsJN-hYw04hboMtcwXBDGhCufLQjACK8BGAsYHg/s0/2020-08-15.jpg", Cali TV | CO
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 
+#EXTINF:-1,CARACOL HD
+http://200.122.237.28:8000/play/a035/index.m3u8
+
+#EXTINF:-1,RCN HD
+http://200.122.237.28:8000/play/a036/index.m3u8
+
+#EXTINF:-1,LA KALLE
+http://200.122.237.28:8000/play/a037/index.m3u8
+
+#EXTINF:-1,CANAL UNO (R)
+http://200.122.237.28:8000/play/a039/index.m3u8
+
 #EXTINF:-1 tvg-id="116" tvg-name="Canal CNC Medellin" tvg-logo="https://lh3.googleusercontent.com/-oQeOqMawVCU/Xzggl8YItaI/AAAAAAAA4Xk/2ZycTmlXp7YRqb869EPklzN757mv0uDoACK8BGAsYHg/s0/2020-08-15.jpg", Canal CNC Medellin | CO
 http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/playlist.m3u8
 
@@ -19,6 +31,18 @@ https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist
 
 #EXTINF:-1 tvg-id="126" tvg-name="CTV" tvg-logo="https://lh3.googleusercontent.com/-HEzkYTo02Rk/Xzgh99tP4iI/AAAAAAAA4YQ/mTot01o9dXAeWSFyVaHucohKWQSBIcEVgCK8BGAsYHg/s0/2020-08-15.jpg", CTV | CO
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+
+#EXTINF:-1,Cinemax
+http://200.122.237.28:8000/play/a01x/index.m3u8
+
+#EXTINF:-1,History Channel
+http://200.122.237.28:8000/play/a02c/index.m3u8
+
+#EXTINF:-1,TELECAFE (R)
+http://200.122.237.28:8000/play/a03i/index.m3u8
+
+#EXTINF:-1,TNT
+http://200.122.237.28:8000/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-id="128" tvg-name="Señal Colombia" tvg-logo="https://lh3.googleusercontent.com/-53_HtUb3jnc/XzgiULPdOxI/AAAAAAAA4Yg/u_kS47iatBgohPcQ3uOpO8Rz7r5RMBARwCK8BGAsYHg/s0/2020-08-15.png", Señal Colombia | CO
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
@@ -58,3 +82,6 @@ https://6362ca6f1fc28.streamlock.net:443/8078/8078/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1090" tvg-name="Noticiero 90 Minutos" tvg-logo="https://i2.paste.pics/711d250f609782c10c5afef0d9628632.png", Noticiero 90 Minutos | CO
 https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8
+
+#EXTINF:-1,ZOOM
+http://200.122.237.28:8000/play/a033/index.m3u8
