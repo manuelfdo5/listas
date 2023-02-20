@@ -29,28 +29,14 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:-1 tvg-id="130" tvg-name="TDI" tvg-logo="https://lh3.googleusercontent.com/-vyt5Jhg2zHM/Xzgifjcw9EI/AAAAAAAA4Yo/w6AHqx1V86URrFxDMQ7mjNIZ9b97NbjswCK8BGAsYHg/s0/2020-08-15.jpg", TDI | CO
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 
-
 #EXTINF:-1 tvg-id="131" tvg-name="Telecafe" tvg-logo="https://lh3.googleusercontent.com/-CT9sPrB8J8A/XzgikOpkjvI/AAAAAAAA4Ys/sPfhmQL0xScsvbzYN_E08QnzP0FTD4dwwCK8BGAsYHg/s0/2020-08-15.png", Telecafe | CO
-https://liveingesta118.cdnmedia.tv/telecafe-live/smil:live.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/telecafelive/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="135" tvg-name="Telepacífico" tvg-logo="https://lh3.googleusercontent.com/-IUpSSVnzrws/Xzgi51GivnI/AAAAAAAA4Y8/nHmUFN6uZ7oB-uQxgHaASZT9quRePknMwCK8BGAsYHg/s0/2020-08-15.png", Telepacífico | CO
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="139" tvg-name="UAO Play" tvg-logo="https://lh3.googleusercontent.com/-tLgCyvI0mh0/XzgjQo6Q8xI/AAAAAAAA4ZM/Su9yAKHJ1dcKi55je1HpyPWfT1JrrX5ZgCK8BGAsYHg/s0/2020-08-15.jpg", UAO Play | CO
-https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8
-
-#EXTINF:-1 tvg-id="495" tvg-name="Canal Capital" tvg-logo="https://www.canalcapital.gov.co/sites/default/files/estaticos/SENAL-EN-VIVO.png", Canal Capital | CO
-https://players.cdn.enetres.net/0ee0f7c6-edc3-47c2-92b1-c27522d8479c.m3u8
-
-
-#EXTINF:-1 tvg-id="36" tvg-name="Telemusica" tvg-logo="https://lh3.googleusercontent.com/-i9WwagfKEd0/Xkyj43nNFOI/AAAAAAAAwIM/KdtEMa1z7fIoleKmbrXFEU3N9ASWoq5IwCK8BGAsYHg/s0/2020-02-18.png", Telemusica | CO
-https://canal.mediaserver.com.co:8088/live/telemusica.m3u8
-
 #EXTINF:-1 tvg-id="187" tvg-name="Tele Familia" tvg-logo="https://lh3.googleusercontent.com/-g_dUHOwBNAM/YE1OKFJDbwI/AAAAAAABAnM/iSrlgpU84ho1Sh6R_8hKrN9DaJFg043NQCK8BGAsYHg/s512/2021-03-13.png", Tele Familia | CO
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
-
-#EXTINF:-1 tvg-id="181" tvg-name="TV Gracia" tvg-logo="https://lh3.googleusercontent.com/-DZadlN6RVe8/YE1PBh6hqPI/AAAAAAABAnc/ehjxHbBo-eMdLgTa3nzFJPjHq6kpWZgLgCK8BGAsYHg/s512/2021-03-13.png", TV Gracia | CO
-https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://lh3.googleusercontent.com/-u9hoJJgi3Qg/YCCON9BSD1I/AAAAAAAA_xk/IaTcH9DfgAgCjdrjd_MM10F7TGPoUnpEACK8BGAsYHg/s0/2021-02-07.png", Recuerdos Retro Radio TV | CL
 https://63da5f7cbffac.streamlock.net/8002/8002/playlist.m3u8
@@ -70,12 +56,6 @@ https://byecableiptv.com/telepasto/Telepasto.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="860" tvg-name="TV Peñol" tvg-logo="https://lh3.googleusercontent.com/-IjTc4ETC9nM/YJrm_HJajaI/AAAAAAABCPA/SwuODmd0rtIduTCeQniwOaSBvR_YqDykgCK8BGAsYHg/s512/2021-05-11.png", TV Peñol | CO
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
 
-#EXTINF:-1 tvg-id="862" tvg-name="Oasis TV" tvg-logo="https://lh3.googleusercontent.com/-412AERiYMxI/YKQhU6rdR0I/AAAAAAABCYU/dIiDILugmbA8oKWQjiJuQCUlFD44BctuwCK8BGAsYHg/s512/2021-05-18.jpg", Oasis TV | CO
-https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
-
-#EXTINF:-1 tvg-id="874" tvg-name="Cristovision" tvg-logo="https://lh3.googleusercontent.com/-gpKijegYRPI/YKpgguJ8gjI/AAAAAAABCfo/BpPbiSUg42ExGT6OjGzvpJYl9HZ8fjxWQCK8BGAsYHg/s512/2021-05-23.jpg", Cristovision | CO
-https://liveingesta118.cdnmedia.tv/cristovisionlive/smil:live.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="898" tvg-name="Buenisima Radio TV" tvg-logo="https://i2.paste.pics/aa99b1f0883fe3d009f973f0a0e2848f.png", Buenisima Radio TV | CO
 http://streamyes.alsolnet.com/buturama/live/playlist.m3u8
 
@@ -85,12 +65,5 @@ https://6362ca6f1fc28.streamlock.net:443/8078/8078/playlist.m3u8
 #EXTINF:-1 tvg-id="1090" tvg-name="Noticiero 90 Minutos" tvg-logo="https://i2.paste.pics/711d250f609782c10c5afef0d9628632.png", Noticiero 90 Minutos | CO
 https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1157" tvg-name="Veo TV" tvg-logo="https://i2.paste.pics/10c25d2283903f2f06871459f16b8391.png", Veo TV | CO
-https://movil.ejeserver.com/live/veotv.m3u8
-
-#EXTINF:-1 tvg-id="1165" tvg-name="MVT TV" tvg-logo="https://i2.paste.pics/7daced6121ffeb1fb3a547c87a1c0a25.png", MVT TV | CO
-http://streaminginfotecsa.com:8080/hls/mvt/index.m3u8
-
 #EXTINF:-1 tvg-id="1285" tvg-name="La Despechada TV" tvg-logo="https://i2.paste.pics/f3abe4415e90765f85d20737dcfdb006.png", La Despechada TV | CO
-https://servidordevideo.co:3077/hybrid/play.m3u8
-https://servidordevideo.co:3077/hybrid/play.m3u8
+https://servidordevideo.co:3077/hybrid/play.m3u8?PlaylistM3UCL
