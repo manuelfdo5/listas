@@ -36,6 +36,9 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:-1,Canal DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
+#EXTINF:-1,Platzi live
+https://mdstrm.com/live-stream/629a63ae8df27c082901f78b
+
 #EXTINF:-1 tvg-id="10" tvg-name="TDI" tvg-logo="https://lh3.googleusercontent.com/-vyt5Jhg2zHM/Xzgifjcw9EI/AAAAAAAA4Yo/w6AHqx1V86URrFxDMQ7mjNIZ9b97NbjswCK8BGAsYHg/s0/2020-08-15.jpg", TDI | CO
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 
