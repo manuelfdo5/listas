@@ -21,10 +21,10 @@ https://hvtrafico.ddns.net/pastocnc9/cnc9/playlist.m3u8
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-name="Canal Caracol 24x7"
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+https://co-e4-p-e-tu1.cdn.mdstrm.com/live-stream/574463697b9817cf0886fc17/publish/media_250.m3u8?aid=574462d1cab0f4d50866f001&uid=0RQjqATWzlph8b5NSb1AG3WaUN6qA8PF&sid=TeJjf6P7l4OdOlSy68gkTFEy1HtqBWZH&pid=K3JjTKSHNwHvG4wxye7EmiSpqykmBAOb&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&es=co-e4-p-e-tu1.cdn.mdstrm.com&ote=1680403030118&ot=VXNq9x69EQ9cRskBSw7Mzw&proto=https&pz=us
 
 #EXTINF:-1 tvg-id="5" tvg-name="Canal Caracol RCN", RCN
-https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZV_QS5OwU44oJRh--CFgfFy3XWLIMDyNs76HKb3y1_ox)/dm/3/x7vyv0z/s/live-1.m3u8#cell=lnyc
+https://www.dailymotion.com/cdn/live/video/x7vyv0z.m3u8?sec=92MOLwNeefsP3yChf6Y1nHh4K3JctJn2hbAONq7WLng5sAINHyQMhRUBsBu180fGlz96GxDGEf1R_x5nKeZWeg&dmTs=121157&dmV1st=1cb97b31-4bad-4f15-ad63-f8c08c05193c
 
 #EXTINF:-1 tvg-id="6" tvg-name="Canal Institucional" tvg-logo="https://lh3.googleusercontent.com/-7A8sit9InV0/XzghOGQu8QI/AAAAAAAA4X4/9FutdpnVfwg0pZ6e258mTpljbB1RtHvagCK8BGAsYHg/s0/2020-08-15.png", Canal Institucional | CO
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
